@@ -1,0 +1,32 @@
+{
+  "name": "SubscribeToTelegramChannel",
+  "version": "0.0.1",
+  "main": "dist/bot.js",
+  "scripts": {
+    "start": "ts-node src/bot.ts",
+    "build": "tsc",
+    "dev": "nodemon src/bot.ts",
+    "stop-all": "pm2 stop all",
+    "my-build": "npm run build",
+    "start-dev": "npm run dev"
+  },
+  "keywords": [
+    "SubscribeToTelegramChannel",
+    "Subscribe",
+    "ToTelegramChannel",
+    "Telegram",
+    "Channel"
+  ],
+  "author": "@APTEMOH",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "axios": "^1.7.7",
+    "express": "^4.21.0",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
