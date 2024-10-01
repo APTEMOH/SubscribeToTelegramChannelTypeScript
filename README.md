@@ -34,8 +34,6 @@ npm run dev
 - **Tether (USDT TRC20)**: `TFH9hmWS7pq5fmbgEYjsJTvegCt1C7zLax`
 - **Tether (USDT ERC20)**: `-`
 - **Bitcoin Cash (BCH)**: `bitcoincash:qztjnw0uqfg0fenk35hld0tu8qpy6a4djvh5pjquzh`
-- **Tether (USDT ERC20)**: `-`
-- **Tether (USDT ERC20)**: `-`
 - **Dogecoin (DOGE)**: `DLKJvCY6YdJ3UfdKiefJRqj7in7qSjCdTG`
   
 ### Почему это важно?
